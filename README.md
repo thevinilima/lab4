@@ -33,7 +33,13 @@ Integrantes:
 
 ## Resultados
 
+![Dashboard Issues Mais Rápidas](fastest.png)
 
+Dashboard com as issues resolvidas mais rapidamente
+
+![Dashboard Issues Mais Rápidas](slowest.png)
+
+Dashboard com as issues resolvidas mais lentamente
 
 ## Discussão
 

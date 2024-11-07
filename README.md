@@ -43,6 +43,17 @@ Realizamos uma análise do uso de diferentes funcionalidades na criação de iss
 Por fim, comparamos o tempo de resolução das issues que utilizaram pelo menos uma dessas funcionalidades com o tempo das que não utilizaram nenhuma.
 
 Segue abaixo os resultados das comparações de cada funcionalidade:
+![Tempo de resolução de issues com e sem checklists](tasklist.png)
+*Figura 1: Comparação do tempo de resolução entre issues com e sem checklists.*
+
+![Tempo de resolução de issues com e sem links](link.png)
+*Figura 2: Comparação do tempo de resolução entre issues com e sem links.*
+
+![Tempo de resolução de issues com e sem trechos de código](code_snippet.png)
+*Figura 3: Comparação do tempo de resolução entre issues com e sem trechos de código.*
+
+![Tempo de resolução de issues com e sem imagens](image.png)
+*Figura 4: Comparação do tempo de resolução entre issues com e sem imagens.*
 
 
 

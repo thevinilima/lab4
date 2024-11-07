@@ -32,6 +32,20 @@ Integrantes:
 
 ## Resultados
 
+### RQ01
+
+Realizamos uma análise do uso de diferentes funcionalidades na criação de issues, comparando o tempo de resolução entre aquelas que utilizaram e as que não utilizaram cada uma das funcionalidades. As funcionalidades avaliadas foram:
+
+- Checklist
+- Links
+- Trechos de código
+- Imagens
+Por fim, comparamos o tempo de resolução das issues que utilizaram pelo menos uma dessas funcionalidades com o tempo das que não utilizaram nenhuma.
+
+Segue abaixo os resultados das comparações de cada funcionalidade:
+
+
+
 ![Dashboard Issues Mais Rápidas](fastest.png)
 
 Dashboard com as issues resolvidas mais rapidamente

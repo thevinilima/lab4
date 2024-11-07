@@ -18,7 +18,7 @@ Integrantes:
 
 **API utilizada**: GitHub GraphQL API
 
-## Hipóteses informais
+## RQS 
 
 
 - **RQ01**: Comparativo entre o uso de funcionalidades de caracterização das issues para contribuem para a resolução rápida e efetiva.
@@ -27,6 +27,18 @@ Integrantes:
 
 
 ## Metodologia
+
+### Coleta de dados
+
+Utilizamos a API do GitHub para coletar 36.008 issues entre os 814 repositórios mais populares do github.
+
+### Processamento de dados
+
+Os dados foram salvos em um banco de dados local SQLite, e posteriormente exportamos o mesmo para um csv para realizar as análises pelo Power BI
+
+### Análise de dados
+
+Foi utilizada a ferramenta Power BI para gerar os gráficos apresentados abaixo para responder os nossos RQs
 
 
 
@@ -62,6 +74,8 @@ Segue abaixo os resultados das comparações de issues que utilizaram pelo menos
 
 ![Issues que usaram pelo menos um funcionalidade](avg_all_1.png)
 
+
+
 ### RQ02 O uso de templates afeta a velcidade de resolução? Dos repositórios que utilizam templates, quantos usam as funcionalidades?
 
 Para responder a essa pergunta, geramos dois gráficos. O primeiro mostra a média de tempo de resolução das issues que utilizam templates, enquanto o segundo apresenta o número total de issues criadas a partir de um template.
@@ -73,10 +87,15 @@ Para responder a essa pergunta, geramos dois gráficos. O primeiro mostra a méd
 
 
 
-## Discussão
 
+
+## Discussão
+Os dados mostram que issues criadas com funcionalidades nativas do GitHub apresentam um tempo de resposta menor em comparação às criadas sem essas funcionalidades, evidenciando uma correlação positiva entre o uso dessas ferramentas e a qualidade das issues criadas.
+
+Quanto aos templates de issues, observamos que a maioria das issues nesses projetos foram criadas a partir de templates, o que destaca a importância dos templates para facilitar um processo eficiente e padronizado entre a comunidade e os desenvolvedores de projetos open source. Além disso, issues criadas com o auxílio de templates também apresentaram um tempo de resposta menor em comparação às que foram criadas sem eles, indicando que a padronização e a clareza proporcionadas pelos templates contribuem para uma resolução mais ágil.
 
 
 ## Conclusão
 
+Esses resultados sugerem que o uso das funcionalidades e templates do GitHub são fatores importantes para melhorar a comunicação, a organização e a eficiência no tratamento de issues, beneficiando toda a comunidade envolvida.
 

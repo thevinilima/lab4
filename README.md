@@ -73,14 +73,6 @@ Para responder a essa pergunta, geramos dois gráficos. O primeiro mostra a méd
 
 
 
-![Dashboard Issues Mais Rápidas](fastest.png)
-
-Dashboard com as issues resolvidas mais rapidamente
-
-![Dashboard Issues Mais Rápidas](slowest.png)
-
-Dashboard com as issues resolvidas mais lentamente
-
 ## Discussão
 
 

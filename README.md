@@ -32,7 +32,7 @@ Integrantes:
 
 ## Resultados
 
-### RQ01
+### RQ01 Comparativo entre o uso de funcionalidades de caracterização das issues para contribuem para a resolução rápida e efetiva.
 
 Realizamos uma análise do uso de diferentes funcionalidades na criação de issues, comparando o tempo de resolução entre aquelas que utilizaram e as que não utilizaram cada uma das funcionalidades. As funcionalidades avaliadas foram:
 
@@ -62,6 +62,14 @@ Segue abaixo os resultados das comparações de issues que utilizaram pelo menos
 
 ![Issues que usaram pelo menos um funcionalidade](avg_all_1.png)
 
+### RQ02 O uso de templates afeta a velcidade de resolução? Dos repositórios que utilizam templates, quantos usam as funcionalidades?
+
+Para responder a essa pergunta, geramos dois gráficos. O primeiro mostra a média de tempo de resolução das issues que utilizam templates, enquanto o segundo apresenta o número total de issues criadas a partir de um template.
+
+
+![Tempo de resolução de issues com e sem templates](template.png)
+
+![Issues que foram ou não criadas a partir de um template](template_count.png)
 
 
 

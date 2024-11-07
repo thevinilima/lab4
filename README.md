@@ -45,6 +45,25 @@ Por fim, comparamos o tempo de resolução das issues que utilizaram pelo menos 
 Segue abaixo os resultados das comparações de cada funcionalidade:
 
 
+![Tempo de resolução de issues com e sem checklists](tasklist.png)
+
+![Tempo de resolução de issues com e sem links](link.png)
+
+![Tempo de resolução de issues com e sem trechos de código](code_snippet.png)
+
+![Tempo de resolução de issues com e sem imagens](image.png)
+
+
+Segue abaixo os resultados das comparações de issues que utilizaram pelo menos uma das funcionalidades vs issuess que não utilizaram nenhuma:
+
+
+![Issues que não usaram nenhuma funcionalidade](avg_all_0.png)
+
+
+![Issues que usaram pelo menos um funcionalidade](avg_all_1.png)
+
+
+
 
 ![Dashboard Issues Mais Rápidas](fastest.png)
 

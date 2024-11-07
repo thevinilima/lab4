@@ -42,6 +42,9 @@ Realizamos uma análise do uso de diferentes funcionalidades na criação de iss
 - Imagens
 Por fim, comparamos o tempo de resolução das issues que utilizaram pelo menos uma dessas funcionalidades com o tempo das que não utilizaram nenhuma.
 
+Segue abaixo os resultados das comparações de cada funcionalidade:
+
+
 
 ![Dashboard Issues Mais Rápidas](fastest.png)
 
